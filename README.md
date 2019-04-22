@@ -2,7 +2,7 @@
 
 New version can be found here: [Vyper-Contract-GUI](https://github.com/ssteiger/Vyper-Contract-GUI)
 
-
+# Vyper Contract GUI
 
 A simple [electron](https://electronjs.org/) app for compiling and interacting with your [Vyper](https://github.com/ethereum/vyper) code.
 
