@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# egg-related
+vyper.egg-info/
+build/
+dist/
+.eggs/
+
+.pytest_cache/
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+.venv/
+venv/
+ENV/
+
+# Coverage tests
+.coverage
+.cache/
+htmlcov/
+
+# sphinx
+docs/_build
+docs/modules.rst
+
+# IDEs
+.idea/
+
+.tox
+.mypy_cache
